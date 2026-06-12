@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+joblib
+
+#python3.11 -m pip install -r requirements.txt
+#python3.11 -m src.train_model
+#python3.11 -m streamlit run app.py
