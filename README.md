@@ -1,3 +1,5 @@
+
+
 # Customer Churn Explainable AI Dashboard
 
 ## Project Overview
@@ -189,12 +191,6 @@ A telecom company can use this dashboard to identify high-risk customers and und
 - Deploy dashboard on Streamlit Cloud
 - Add customer segmentation
 - Add database storage for prediction history
-
----
-
-## Demo Video
-
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/assets/YOUR_ASSET_ID
 
 ---
 
